@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/NIU1598103/iot_app
+[submodule "web_interface"]
+	path = web_interface
+	url = https://github.com/NIU1600415/iot_smartgarage_ui
+[submodule "soc"]
+	path = soc
+	url = https://github.com/andreumb46/IoT-grup-9
